@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+button {
+  cursor: pointer;
+}
+
+.header-background {
+  background: linear-gradient(to right, #6e28e8, #0e84ef);
+}
+
+.user-header{
+  font-weight: bold;
+  margin: 2px;
+}
+
+.avatar {
+  border-radius: 90%;
+  background-color: #5887e3;
+}
