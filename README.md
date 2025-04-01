@@ -1,3 +1,20 @@
+# Hospital Management
+
+## Project Contributors
+
+### Prakriti
+- Login Page
+- Dashboard
+- Register Page
+
+### Sriranjani
+- Admission Form
+- Admin Approval Page (for beds)
+
+### Rekanshu
+- Inventory List Page
+```
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
